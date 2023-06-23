@@ -1,0 +1,19 @@
+body
+{
+text-align: center;
+background-color: lawngreen;
+}
+span
+{
+	font-size: 18px;
+	color: rgb(0, 0, 0);
+}
+canvas
+{
+background-color: blue;
+border-radius: 20px;
+}
+#draw
+{
+	background-color: pink;
+}
